@@ -6,3 +6,4 @@ Mint your own NFT tokens (ERC721) on the blockchain in any color.
 3. change metamask network to ganache, import priv key for test eth
 4. enter color hex and mint
 
+![](connect.png)
